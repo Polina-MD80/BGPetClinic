@@ -1,2 +1,0 @@
-# BGPetClinic
-Udemi Course
