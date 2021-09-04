@@ -1,5 +1,3 @@
-package poly.springframework.bgpetclinic.model;
-
 public class PetType {
     private String name;
 
